@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "38807583227",
+    "firebase_url": "https://rh-positive-ff1a7.firebaseio.com",
+    "project_id": "rh-positive-ff1a7",
+    "storage_bucket": "rh-positive-ff1a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38807583227:android:d7b56bda992b1e1a",
+        "android_client_info": {
+          "package_name": "com.morhpt.rhpositive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38807583227-t0pm81kr17bmsnt2p9a001irf7a40naq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.morhpt.rhpositive",
+            "certificate_hash": "494464c55de0b8700baa2ac0cc72f0ac79ca9944"
+          }
+        },
+        {
+          "client_id": "38807583227-t4m97bgt8kaa7ts1js6l96dvhe07fa21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKhLzWZ_fiF7FywekFgpUjoHlB_G6oG2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38807583227-t4m97bgt8kaa7ts1js6l96dvhe07fa21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
